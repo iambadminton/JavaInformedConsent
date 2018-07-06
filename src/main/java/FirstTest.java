@@ -9,6 +9,10 @@ import java.io.FileOutputStream;
 import java.io.OutputStream;
 
 /**
+ * This sample test is using
+ * https://github.com/leonardoanalista/java2word
+ * library
+ *
  * Created by a.shipulin on 29.06.18.
  */
 public class FirstTest {
